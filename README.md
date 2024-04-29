@@ -2,7 +2,8 @@
 
 <div style="text-align:center;">
 
-[Sobre o projeto](##Sobre-o-projeto) | [Setup](##Setup) | [Tecnologias](##Tecnologia)
+[Sobre o projeto](#sobre-o-projeto) | [Setup](#setup) | [Tecnologias](#tecnologias)
+
 
 
 </div> 
@@ -66,4 +67,11 @@ Tecnologias usadas no projetos:
 
 -----------------------
 
+<div style="text-align:center;">
+
 Feito por [Samuel](https://www.linkedin.com/in/samuel-wesley-03b9a7248/)
+
+
+</div> 
+
+
